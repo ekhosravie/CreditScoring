@@ -1,0 +1,73 @@
+[ {
+    "id": 1,
+    "age": 35,
+    "credit_history": [
+      {
+        "type": "loan",
+        "status": "paid",
+        "duration": 12
+      },
+      {
+        "type": "credit card",
+        "status": "paid",
+        "duration": 15
+      }
+    ],
+    "income": 60000,
+    "loan_amount": 30000
+  },
+  {
+    "id": 2,
+    "age": 40,
+    "credit_history": [
+      {
+        "type": "loan",
+        "status": "default",
+        "duration": 24
+      },
+      {
+        "type": "credit card",
+        "status": "paid",
+        "duration": 24
+      }
+    ],
+    "income": 80000,
+    "loan_amount": 50000
+  },
+  {
+    "id": 3,
+    "age": 32,
+    "credit_history": [
+      {
+        "type": "loan",
+        "status": "paid",
+        "duration": 24
+      },
+      {
+        "type": "credit card",
+        "status": "paid",
+        "duration": 24
+      }
+    ],
+    "income": 70000,
+    "loan_amount": 20000
+  },
+  {
+    "id": 4,
+    "age": 28,
+    "credit_history": [
+      {
+        "type": "loan",
+        "status": "default",
+        "duration": 12
+      },
+      {
+        "type": "credit card",
+        "status": "paid",
+        "duration": 15
+      }
+    ],
+    "income": 50000,
+    "loan_amount": 40000
+  }
+]
